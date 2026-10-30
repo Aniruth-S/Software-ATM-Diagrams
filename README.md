@@ -24,6 +24,24 @@ Communication Diagram
 Package Diagram
 Design the database with tables for Customer, Account, and Transaction.
 # DIAGRAMS:
-(upload all 6 diagrams)
+
+# Activity Diagram
+![alt text](image.png)
+
+# Class Diagram
+![alt text](<image copy.png>)
+
+# Sequence Diagram
+![alt text](<image copy 2.png>)
+
+# Package Diagram
+![alt text](<Screenshot 2026-10-30 142255.png>)
+
+# Sequence Diagram
+![alt text](<Screenshot 2026-10-30 142515.png>)
+
+# Use case Diagram
+![alt text](<Screenshot 2026-10-30 142652.png>)
 
 # RESULT:
+Thus the Atm and banking System project was executed and the output was verified.
